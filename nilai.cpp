@@ -20,5 +20,6 @@ int main() {
     } else {
         cout<<"hasil nilai anda adalah : D";
     }
+    system("pause");
     return 0;
 }
